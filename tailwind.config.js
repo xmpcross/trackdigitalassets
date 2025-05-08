@@ -79,7 +79,7 @@ module.exports = {
           DEFAULT: "4px",
           md: "4px",
           lg: "4px",
-          xl: "4px",
+          xl: "5px",
           "2xl": "4px",
           "3xl": "4px",
           "[2rem]": "4px",
