@@ -37,7 +37,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
 					<SiteWrapperProvider {...pageProps}>
 						<style jsx global>{`
 							html {
-								font-family: ${poppins.style.fontFamily};
+								font-family: ${Urbanist.style.fontFamily};
 							}
 						`}</style>
 						<NextNProgress color="#818cf8" />
