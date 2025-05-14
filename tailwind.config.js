@@ -85,9 +85,8 @@ module.exports = {
         "3xl": "0rem",
         "[2rem]": "0rem",
         "[40px]": "0rem",
-        full: "4px",
+        full: "9999px",
       },
-    }, 
     },
   },
   variants: {
