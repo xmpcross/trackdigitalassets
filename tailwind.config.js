@@ -84,7 +84,7 @@ module.exports = {
         "2xl": "4px",
         "3xl": "4px",
         "[2rem]": "4px",
-        "[40px]": "4px",
+        "[40px]": "8px",
         full: "4px",
       },
     },
