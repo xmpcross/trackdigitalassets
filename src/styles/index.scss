@@ -19,3 +19,7 @@
 		text-decoration: underline;
 	}
 }
+.shadow-2xl {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    --tw-shadow-colored: 0 25px 50px -12px var(--tw-shadow-color);
+}
